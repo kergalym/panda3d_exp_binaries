@@ -1,2 +1,2 @@
-# Panda3D experimental Binaries 
-Panda3D experimental Binaries including RecastDetour, Vulkan, etc
+# Panda3D Experimental Binaries 
+Panda3D Experimental Binaries including RecastDetour, Vulkan, etc
